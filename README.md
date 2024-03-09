@@ -1,0 +1,2 @@
+# NOTE APP PRACTICE 
+First app deploy in Render IS JUST A TESTING NOT A FINAL APP!
